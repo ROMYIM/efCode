@@ -1,0 +1,11 @@
+C:\Users\PC-001\source\efCode\bin\Debug\netcoreapp2.0\efCode.deps.json
+C:\Users\PC-001\source\efCode\bin\Debug\netcoreapp2.0\efCode.runtimeconfig.json
+C:\Users\PC-001\source\efCode\bin\Debug\netcoreapp2.0\efCode.runtimeconfig.dev.json
+C:\Users\PC-001\source\efCode\bin\Debug\netcoreapp2.0\efCode.dll
+C:\Users\PC-001\source\efCode\bin\Debug\netcoreapp2.0\efCode.pdb
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.csprojResolveAssemblyReference.cache
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.csproj.CoreCompileInputs.cache
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.AssemblyInfoInputs.cache
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.AssemblyInfo.cs
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.dll
+C:\Users\PC-001\source\efCode\obj\Debug\netcoreapp2.0\efCode.pdb
