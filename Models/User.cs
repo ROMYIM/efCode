@@ -19,7 +19,7 @@ namespace efCode.Models
 
         public User() {}
 
-        public override string ToString() => $"name:Name;gender:Gender;birthday:Birthday";
+        public override string ToString() => $"name:{Name};gender:{Gender};birthday:{Birthday.ToShortDateString()}";
     }
 
     public enum Gender

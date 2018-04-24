@@ -1,6 +1,7 @@
+using efCode.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace efCode.Models
+namespace efCode.DbContexts
 {
     public class EfContext : DbContext
     {
